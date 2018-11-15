@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/StepAreaChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/StepAreaChart/MainPage.xaml))
+<!-- default file list end -->
 # How to create a 2D Step Area chart
 
 
