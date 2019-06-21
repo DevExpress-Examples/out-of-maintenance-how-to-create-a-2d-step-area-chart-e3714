@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/StepAreaChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/StepAreaChart/MainPage.xaml))
 <!-- default file list end -->
 # How to create a 2D Step Area chart
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3714)**
+<!-- run online end -->
 
 
 <p>The following example demonstrates how to create a 2D Step Area chart.</p><br />
